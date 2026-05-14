@@ -25,7 +25,7 @@ Passionate about building modern mobile applications and scalable backend system
 🛠️ Tech Stack
 📱 Mobile Development
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,swift,android,androidstudio" height="50" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,java" height="50" />
 
 ⚙️ Backend Development
 
@@ -37,7 +37,7 @@ Passionate about building modern mobile applications and scalable backend system
 
 🔧 Tools & Version Control
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="50" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" height="50" />
 
 ---
 
