@@ -63,11 +63,17 @@ Passionate about building modern mobile applications and scalable backend system
 ## 🌐 Connect With Me
 
 <p align="left">
-
-<a href="https://github.com/keroloskhaled">
-<img src="https://skillicons.dev/icons?i=github" height="45" />
-</a>
-
+ <a href="https://www.linkedin.com/in/kerolos-khaled-1431301ab/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  <img width="10" />
+  <a href="https://github.com/itskerolos">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  <img width="10" />
+    <a href="mailto:keroloskhaled745@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
 </p>
 
 ---
