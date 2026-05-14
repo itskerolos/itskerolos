@@ -23,6 +23,7 @@ Passionate about building modern mobile applications and scalable backend system
 ## 🛠️ Tech Stack
 
 🛠️ Tech Stack
+
 📱 Mobile Development
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,java" height="50" />
