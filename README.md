@@ -22,19 +22,22 @@ Passionate about building modern mobile applications and scalable backend system
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+🛠️ Tech Stack
+📱 Mobile Development
 
-<img src="https://skillicons.dev/icons?i=flutter" height="50" alt="Flutter" />
-<img src="https://skillicons.dev/icons?i=dart" height="50" alt="Dart" />
-<img src="https://skillicons.dev/icons?i=laravel" height="50" alt="Laravel" />
-<img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP" />
-<img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase" />
-<img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
-<img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
-<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
-<img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift,android,androidstudio" height="50" />
 
-</p>
+⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql" height="50" />
+
+💻 Frontend Basics
+
+<img src="https://skillicons.dev/icons?i=html,css" height="50" />
+
+🔧 Tools & Version Control
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="50" />
 
 ---
 
