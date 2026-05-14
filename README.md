@@ -22,7 +22,6 @@ Passionate about building modern mobile applications and scalable backend system
 
 ## 🛠️ Tech Stack
 
-🛠️ Tech Stack
 
 📱 Mobile Development
 
