@@ -29,7 +29,7 @@ Passionate about building modern mobile applications and scalable backend system
 
 ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql" height="50" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb" height="50" />
 
 💻 Frontend Basics
 
